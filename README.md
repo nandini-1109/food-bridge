@@ -26,10 +26,11 @@ This project contributes to solving two major problems: food wastage and hunger 
 ---
 
 ## 🎨 Tech Stack
-| Frontend        | Backend            | Database | Deployment |
-|-----------------|---------------------|----------|------------|
-| HTML5, CSS3, JS | Node.js, Express.js  | MongoDB  | Github | 
+| Frontend        | Backend            | Deployment |
+|-----------------|---------------------|------------|
+| HTML5, CSS3, JS | Node.js, Express.js    | Github | 
 
 ---
 
 ## 📂Website is live !!!
+https://food-bridge-alpha.vercel.app/
