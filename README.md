@@ -1,30 +1,35 @@
-# New Project
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/nandinis-projects-3c2718b3/v0-new-project-r7qprieugto)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/R7QPRIeUGTO)
+# 🥗 Food Bridge
 
-## Overview
+## 🌟 About
+Food Saver Project is a humanitarian initiative aimed at saving leftover food and feeding hungry people and stray animals across India.  
+This project contributes to solving two major problems: food wastage and hunger by connecting individuals, volunteers, NGOs, and donors.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+> "Every Meal Matters – Let's Make a Difference Together."
 
-## Deployment
+---
 
-Your project is live at:
+## 🚀 Features
+- 🖼 Automatic Sliding Image Banner (emotional photos: children, stray animals)
+- 📈 Live Meals Saved Counter (Real-Time)
+- 🍲 Donate Leftover Food (Submit food safely)
+- 💸 Donate Money (Secure payment gateway)
+- 🙋 Volunteer Registration (Join hands with NGOs)
+- 🐾 Food Safety Checker (For Humans or Animals)
+- 📷 Photo Gallery for Volunteer Moments
+- 📱 Social Media Sharing (Facebook, Instagram, WhatsApp)
+- 🔒 Secure Login/Signup System
+- 📊 Dashboard for NGOs/Volunteers
+- 🎥 Short Emotional Impact Video
 
-**[https://vercel.com/nandinis-projects-3c2718b3/v0-new-project-r7qprieugto](https://vercel.com/nandinis-projects-3c2718b3/v0-new-project-r7qprieugto)**
+---
 
-## Build your app
+## 🎨 Tech Stack
+| Frontend        | Backend            | Database | Deployment |
+|-----------------|---------------------|----------|------------|
+| HTML5, CSS3, JS | Node.js, Express.js  | MongoDB  | Github | 
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/R7QPRIeUGTO](https://v0.dev/chat/projects/R7QPRIeUGTO)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 📂Website is live !!!
